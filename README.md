@@ -1,7 +1,8 @@
 # Modification
 * The original implementation is from : https://github.com/guptapraful/niqe
-* There were big discrepancy between Matlab NIQE score and the original python impelemtation :
-* Extracted clean image's mean & cov from matalb (data/clean_image_parameters.mat) and minor modification
+* There were big discrepancy between Matlab NIQE score and the original python implementation :
+* Extracted clean image's mean & cov from matalb (data/clean_image_parameters.mat) and added minor modifications
+* After modification (NIQE score below:)
 
 | Image                     | Python version | Matlab (NIQE) |
 |---------------------------|----------------|---------------|
